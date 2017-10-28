@@ -7,5 +7,7 @@ namespace CoreGitHub
     public class Skeet
     {
         public Skeet() { }
+       
+        
     }
 }
