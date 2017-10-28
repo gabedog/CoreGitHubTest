@@ -8,7 +8,8 @@ namespace CoreGitHub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is the dev branch check in....");
-            Console.WriteLine("Adding to Feature 1....");
+            Console.WriteLine("Woops Adding code to Dev that should be in Feature-1....");
+
             Console.ReadLine();
         }
     }
